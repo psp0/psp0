@@ -29,11 +29,11 @@ OS
 
 ---
 
- [BOJ](https://solved.ac/profile/tkdvlf9058) & [Velog](https://velog.io/@psp0)
+ BOJ & Velog
 
 <div style="display:flex; flex-direction:row;">
   
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tkdvlf9058&theme=cold)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=tkdvlf9058&theme=cold)](https://solved.ac/profile/tkdvlf9058)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=psp0)](https://velog.io/@psp0) 
 
 </div>
