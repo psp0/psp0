@@ -18,7 +18,6 @@ Stack
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
----
 
 IDE
 
@@ -28,9 +27,17 @@ OS
 
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Zorin-15A6F0?style=for-the-badge&logo=Zorin&logoColor=white"> 
 
+---
 
-Velog
+ [BOJ](https://solved.ac/profile/tkdvlf9058) & [Velog](https://velog.io/@psp0)
 
+<div style="display:flex; flex-direction:row;">
+  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tkdvlf9058&theme=cold)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=psp0)](https://velog.io/@psp0) 
+
+</div>
+
+
 </div>
 
